@@ -4,7 +4,7 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-                    <name>collapsed</name>
+                    <name>collapsed</name>s
                     <value>false</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
